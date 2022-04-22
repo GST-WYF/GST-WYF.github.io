@@ -2,4 +2,8 @@
 
 * [介绍](README.md)
 
--   [影咖](WHERE-THE-DREAM-STARTED.md)
+* [梦呓](README.md)
+    -   [神谕机与那个世界](JARGON/VOLUME01/ORACLE-MACHINE-AND-THE-WORLD.md)
+
+* [闪回](REMINISCENCE/REMINISCENCE.md)
+    -   [影咖](REMINISCENCE/WHERE-THE-DREAM-STARTED.md)
